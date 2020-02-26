@@ -13,7 +13,7 @@ It can work in two modes:
 *Note: If a track has multiple segments, NMEASimulator will concatenate all the segments into one contiguous Track*
 
 
-**_NMEASimulator is a replacement for the NMEASimulator Chrome App (Support for Chrome Apps ends after June 2020 for Windows, Mac & Linux_**
+_**NMEASimulator is a replacement for the NMEASimulator Chrome App** (Support for Chrome Apps end as of June 2020 for Windows, Mac & Linux)_
 
 ![image](https://user-images.githubusercontent.com/38519157/75314330-55c95380-58af-11ea-887c-392dcccbea3a.png)
 
