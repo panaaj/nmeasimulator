@@ -23,6 +23,6 @@ Installation:
 
 NMEASimulator is available as both a Windows and Linux application.
 
-Head to [Releases](./releases) to download the relevant version.
+Head to [Releases](https://github.com/panaaj/nmeasimulator/releases) to download the relevant version.
 
 
