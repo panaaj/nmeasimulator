@@ -21,7 +21,7 @@ _**NMEASimulator is a replacement for the NMEASimulator Chrome App** (Support fo
 Installation:
 -------------
 
-NMEASimulator is currently available for Windows and Linux.
+NMEASimulator is currently available in _Pre-Release_ for Windows and Linux.
 
 Head to [Releases](https://github.com/panaaj/nmeasimulator/releases) to download the latest version for
 you device Operating System.
