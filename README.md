@@ -1,6 +1,6 @@
 # NMEASimulator
 
-## NMEA data stream generator plugin.
+## NMEA data stream generator.
 
 NMEASimulator is an NMEA data stream generator to mimic vessel movement, engine status, water depth, etc.
 
