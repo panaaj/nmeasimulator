@@ -24,5 +24,5 @@ Installation:
 NMEASimulator is currently available in _Pre-Release_ for Windows and Linux.
 
 Head to [Releases](https://github.com/panaaj/nmeasimulator/releases) to download the latest version for
-you device Operating System.
+your device Operating System.
 
