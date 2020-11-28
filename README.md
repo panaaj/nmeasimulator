@@ -1,12 +1,14 @@
 # NMEASimulator
 
-## NMEA data stream generator.
+## NMEA / Signal K data stream generator.
 
 #### _Available for: Windows, Mac, Linux and Raspberry Pi_.
 
-NMEASimulator is an NMEA data stream generator to mimic vessel movement, engine status, water depth, etc.
+NMEASimulator is an NMEA / Signal K data stream generator to mimic vessel movement, engine status, water depth, etc.
 
-It can work in two modes:
+As well as generating both NMEA0183 and Signal K data streams it also sends `ViewSync`UDP packets which can be used by Google Earth(tm) and LiquidGalaxy installations.
+
+It can work in three modes:
 
 __1. Set initial seed values and then perodically apply a delta to them to mimic vessel movemen t.__
 - Individual values can be manually overridden _(supports using keyboard arrows Up-Down alters speed and L-R alters heading)_.
@@ -16,8 +18,11 @@ __2. Follow a GPX Track.__
 - NMEASimulator will walk through each point of the Track at the interval set in the configuration screen.
 - If a track has multiple segments, NMEASimulator will concatenate all the segments into one contiguous Track*
 
+__3. Replay a recorded log.__
+- NMEASimulator can log the generated NMEA / Signal K output to a log file.
+- These log files can be replayed allowing the recorded data to be re-sent.
 
-_**NMEASimulator is a replacement for the NMEASimulator Chrome App** (Support for Chrome Apps end as of June 2020 for Windows, Mac & Linux)_
+_**NMEASimulator is a replacement for both the NMEASimulator and SignalKSimulator Chrome Apps** (Support for Chrome Apps end as of June 2021 for Windows, Mac & Linux)_
 
 ![image](https://user-images.githubusercontent.com/38519157/75314330-55c95380-58af-11ea-887c-392dcccbea3a.png)
 
