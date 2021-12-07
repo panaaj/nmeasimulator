@@ -14,7 +14,7 @@ __1. Set initial seed values and then perodically apply a delta to them to mimic
 - Individual values can be manually overridden _(supports using keyboard arrows Up-Down alters speed and L-R alters heading)_.
 - Steering mode allows altering course by setting the rudder angle _(supports using L-R keyboard arrows)_.
 
-__2. Follow a GPX Track.__
+__2. Follow a GPX / KML Track.__
 - NMEASimulator will walk through each point of the Track at the interval set in the configuration screen.
 - If a track has multiple segments, NMEASimulator will concatenate all the segments into one contiguous Track*
 
