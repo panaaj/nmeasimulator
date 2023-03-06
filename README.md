@@ -10,7 +10,7 @@ As well as generating both NMEA0183 and Signal K data streams it also sends `Vie
 
 It can work in three modes:
 
-__1. Set initial seed values and then perodically apply a delta to them to mimic vessel movemen t.__
+__1. Set initial seed values and then perodically apply a delta to them to mimic vessel movement.__
 - Individual values can be manually overridden _(supports using keyboard arrows Up-Down alters speed and L-R alters heading)_.
 - Steering mode allows altering course by setting the rudder angle _(supports using L-R keyboard arrows)_.
 
